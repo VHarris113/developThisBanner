@@ -1,0 +1,22 @@
+.container {
+    background-color: #141647;
+    color: #FFFFFFFF;
+    width: 500px;
+}
+
+span {
+  color: #adff2f;
+}
+
+.two {
+  color: #ffdd00;
+}
+
+.three {
+  font-style: italic;
+  color: #ff0000;
+}
+
+.four {
+  color: #4b4bf5
+}
