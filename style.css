@@ -24,7 +24,7 @@ span {
 
 /* GLOBAL STYLES */
 body {
-  background: #333;
+  background: rgb(21, 38, 113);
   padding-top: 5em;
   display: flex;
   justify-content: center;
